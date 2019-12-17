@@ -1,7 +1,7 @@
 .title{
     margin-bottom: 10px;
     text-align:center;
-    width: 543px;
+    width: 200px;
     color:black;
     border: solid black 2px;
     height: 30px;
@@ -15,9 +15,9 @@ input[type="button"]
     color: black;
     border: solid black 2px;
     /*width:100%;*/
-    width: 130px;
-    height:70px;
-    font-size: 30px;
+    width: 70px;
+    height:35px;
+    font-size: 15px;
 
 }
 
@@ -26,11 +26,11 @@ input[type="text"]
     background-color:white;
     border: solid black 2px;
     /*width:100%;*/
-    width: 380px;
-    height: 30px;
+    width: 70px;
+    height: 15px;
     margin-left: 8px;
     font-size: 30px;
-    
+
 }
 body{
     padding-top: 50px;
